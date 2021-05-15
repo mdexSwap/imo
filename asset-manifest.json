@@ -11,16 +11,16 @@
     "static/js/2.2ece360b.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/2.2ece360b.chunk.js.map",
     "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/main.db033d04.chunk.js",
     "main.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/main.db033d04.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.e9039789.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.e9039789.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.c0270c85.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.c0270c85.js.map",
     "static/js/5.e0bf6937.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/5.e0bf6937.chunk.js",
     "static/js/5.e0bf6937.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/5.e0bf6937.chunk.js.map",
     "static/css/6.32e15ea5.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/6.32e15ea5.chunk.css",
     "static/js/6.e5395021.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/6.e5395021.chunk.js",
     "static/js/6.e5395021.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/6.e5395021.chunk.js.map",
     "static/css/7.9329fae8.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/7.9329fae8.chunk.css",
-    "static/js/7.26a8d130.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.26a8d130.chunk.js",
-    "static/js/7.26a8d130.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.26a8d130.chunk.js.map",
+    "static/js/7.b1b552b4.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.b1b552b4.chunk.js",
+    "static/js/7.b1b552b4.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.b1b552b4.chunk.js.map",
     "static/css/8.b9a156ce.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/8.b9a156ce.chunk.css",
     "static/js/8.46d02ac1.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/8.46d02ac1.chunk.js",
     "static/js/8.46d02ac1.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/8.46d02ac1.chunk.js.map",
@@ -57,7 +57,7 @@
     "static/media/mw.3a883031.png": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/media/mw.3a883031.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9039789.js",
+    "static/js/runtime-main.c0270c85.js",
     "static/js/5.e0bf6937.chunk.js",
     "static/js/main.db033d04.chunk.js"
   ]

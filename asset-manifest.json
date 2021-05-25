@@ -6,13 +6,13 @@
     "static/js/1.af79b9ee.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/1.af79b9ee.chunk.js",
     "static/css/2.c8aae5f5.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/2.c8aae5f5.chunk.css",
     "static/js/2.a5687b6c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/2.a5687b6c.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/main.99888693.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.6a946061.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/main.2c8bb71a.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/runtime-main.f891772f.js",
     "static/js/5.8086d66a.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/5.8086d66a.chunk.js",
     "static/css/6.3d642bbd.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/6.3d642bbd.chunk.css",
     "static/js/6.e97e4581.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/6.e97e4581.chunk.js",
-    "static/css/7.186c5304.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/7.186c5304.chunk.css",
-    "static/js/7.2a52dcaa.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.2a52dcaa.chunk.js",
+    "static/css/7.5f792add.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/7.5f792add.chunk.css",
+    "static/js/7.72fff9bb.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/7.72fff9bb.chunk.js",
     "static/css/8.a634fafe.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/8.a634fafe.chunk.css",
     "static/js/8.b887f41c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/js/8.b887f41c.chunk.js",
     "static/css/9.c2c26322.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/css/9.c2c26322.chunk.css",
@@ -34,8 +34,8 @@
     "static/media/mw.3a883031.png": "https://cdn.jsdelivr.net/gh/mdexSwap/imo@main/static/media/mw.3a883031.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a946061.js",
+    "static/js/runtime-main.f891772f.js",
     "static/js/5.8086d66a.chunk.js",
-    "static/js/main.99888693.chunk.js"
+    "static/js/main.2c8bb71a.chunk.js"
   ]
 }
